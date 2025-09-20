@@ -2,8 +2,8 @@
 
 ---
 
-![Dashboard Screenshot](./asset/Financial%20Dataset%20Dashboard.png)
-[Dashboard Screenshot](./asset/Financial%20Dataset%20Dashboard.png)
+![Dashboard Screenshot](./Asset/Financial%20Dataset%20Dashboard.png)
+[Dashboard Screenshot](./Asset/Financial%20Dataset%20Dashboard.png)
 
 ---
 ## 📊 Executive Summary
@@ -72,22 +72,22 @@ Oct delivers the highest revenue and sales, while Mar, May records the lowest pe
 <small>**ACTION:** Leverage Oct’s success factors and run campaigns to boost weaker months.</small>
 
 <small>**SALES REVENUE PER COUNTRY:** Revenue is evenly distributed, with USA (21.08%) and Mexico (17.65%) showing small differences, indicating stable performance across markets. </small>
-![RevenuePerCountry](./asset/RevenuePerCountry.png)
+![RevenuePerCountry](./Asset/RevenuePerCountry.png)
 <small>**ACTION:** Maintain balance across markets and explore growth in Mexico.</small>
 <br>
 
 <small>**SALES REVENUE PER SEGMENT:** Government is the strongest revenue contributor, generating significantly more than Channel Partners, the weakest segment.</small>
-![RevenuePerSegment](./asset/RevenuePerSegment.png)
+![RevenuePerSegment](./Asset/RevenuePerSegment.png)
 <small>**ACTION:** Strengthen focus on Government and review Channel Partners strategy.</small>
 <br>
 
 <small>**PROFIT PER SEGMENT:** Small Business is the top profit driver, while Channel Partners, Midmarket create the biggest losses.</small>
-![ProfitPerSegment](./asset/ProfitPerSegment.png)
+![ProfitPerSegment](./Asset/ProfitPerSegment.png)
 <small>**ACTION:** Increase focus on Small Business while addressing profitability issues in Channel Partners, Midmarket.</small>
 <br>
 
 <small>**PRODUCT PERFORMANCE OVERVIEW:** Paseo bring in strong profits, while VTT, Velo, Amarilla lose money because costs are higher than sales.</small>
-![ProductPerformanceOverview](./asset/ProductPerformanceOverview.png)
+![ProductPerformanceOverview](./Asset/ProductPerformanceOverview.png)
 <small>**ACTION:** Reassess VTT, Velo, Amarilla by adjusting pricing, reducing production costs, or repositioning them to prevent losses. At the same time, strengthen promotion and sales efforts for Paseo to maximize their profitability.</small>
 
 ---
