@@ -12,7 +12,7 @@
 - Revenue is uneven across months with dips in March and May.
 - Certain customer segments (Midmarket, Channel Partners) and products (VTT, Velo, Amarilla) are generating losses.
 - High costs and discounting are eroding profit margins.
-
+   
 **The Solution:**
 - Identify profitable segments (Small Business, Government) and focus growth there.
 - Reassess loss-making products and optimize pricing/production costs.
@@ -67,27 +67,27 @@ The company faces declining performance in some months, unprofitable segments, a
 ## 💡 Business Insights and Recommendations
 
 <small>**SALES REVENUE AND UNITS SOLD PER MONTH:** 
-Oct delivers the highest revenue and sales, while Mar, May records the lowest performance. </small>
-![SalesRevenueAndUnitsSoldPerMonth](./Asset/SalesRevenueAndUnitsSoldPerMonth.png)
+Oct delivers the highest revenue and sales, while Mar, May records the lowest performance. </small>  
+![SalesRevenueAndUnitsSoldPerMonth](./Asset/SalesRevenueAndUnitsSoldPerMonth.png)  
 <small>**ACTION:** Leverage Oct’s success factors and run campaigns to boost weaker months.</small>
 
-<small>**SALES REVENUE PER COUNTRY:** Revenue is evenly distributed, with USA (21.08%) and Mexico (17.65%) showing small differences, indicating stable performance across markets. </small>
-![RevenuePerCountry](./Asset/RevenuePerCountry.png)
+<small>**SALES REVENUE PER COUNTRY:** Revenue is evenly distributed, with USA (21.08%) and Mexico (17.65%) showing small differences, indicating stable performance across markets. </small>  
+![RevenuePerCountry](./Asset/RevenuePerCountry.png)  
 <small>**ACTION:** Maintain balance across markets and explore growth in Mexico.</small>
 <br>
 
-<small>**SALES REVENUE PER SEGMENT:** Government is the strongest revenue contributor, generating significantly more than Channel Partners, the weakest segment.</small>
-![RevenuePerSegment](./Asset/RevenuePerSegment.png)
+<small>**SALES REVENUE PER SEGMENT:** Government is the strongest revenue contributor, generating significantly more than Channel Partners, the weakest segment.</small>  
+![RevenuePerSegment](./Asset/RevenuePerSegment.png)  
 <small>**ACTION:** Strengthen focus on Government and review Channel Partners strategy.</small>
 <br>
 
-<small>**PROFIT PER SEGMENT:** Small Business is the top profit driver, while Channel Partners, Midmarket create the biggest losses.</small>
-![ProfitPerSegment](./Asset/ProfitPerSegment.png)
+<small>**PROFIT PER SEGMENT:** Small Business is the top profit driver, while Channel Partners, Midmarket create the biggest losses.</small>  
+![ProfitPerSegment](./Asset/ProfitPerSegment.png)  
 <small>**ACTION:** Increase focus on Small Business while addressing profitability issues in Channel Partners, Midmarket.</small>
 <br>
 
-<small>**PRODUCT PERFORMANCE OVERVIEW:** Paseo bring in strong profits, while VTT, Velo, Amarilla lose money because costs are higher than sales.</small>
-![ProductPerformanceOverview](./Asset/ProductPerformanceOverview.png)
+<small>**PRODUCT PERFORMANCE OVERVIEW:** Paseo bring in strong profits, while VTT, Velo, Amarilla lose money because costs are higher than sales.</small>  
+![ProductPerformanceOverview](./Asset/ProductPerformanceOverview.png)  
 <small>**ACTION:** Reassess VTT, Velo, Amarilla by adjusting pricing, reducing production costs, or repositioning them to prevent losses. At the same time, strengthen promotion and sales efforts for Paseo to maximize their profitability.</small>
 
 ---
@@ -103,4 +103,4 @@ Oct delivers the highest revenue and sales, while Mar, May records the lowest pe
 
 ---
 
-[Download Dataset Here] (Financial Dataset.xlsx)
+[Download Dataset Here](./Financial%20Dataset%20Dashboard.png)
